@@ -1,0 +1,28 @@
+* Number Sense
+1. Practice seeing relationships
+   How does 5 relate to 10? 3 to 9?
+2. See only the answer
+   Read 4 + 3 as 7—not as four plus three.
+3. Work from left to right
+   27 is 27—not 7, 2.
+4. Convert to simpler forms
+   25¢ is both 25¢ and a quarter of a dollar.
+   99 is 100 minus 1.
+   15 is 10 plus ½ of 10.
+
+* Adding (Moving right on the number line)
++ When adding two numbers <10 that go over 10, take the complement of the larger digit and subtract it with the smaller digit and record a 10.
+  9 + 4 = (10-1) + 4 = 10 + (4-1) = 13 OR (9+1) + (4-1) = 13
++ For negative numbers [My own thoughts] :-
+  + When adding two negative numbers, strip the negative off both and add the two digits and then put back the negative.
+  + When adding a negative number with a positive one, subtract the higher digit from the smaller one and add a negative sign back if it does not go over 0.
+** Rules to speed up adding
+If adding multiple digits, group the pair of digits that don't go over 10.
+3 + 4 + 2 + 6 + 3 + 7 + 5 + 3
+( 7 ) + ( 8 ) + ( 10 ) + ( 8 )
+* Subtracting (Moving left on the number line)
++ When subtracting two numbers <10 that go under 0, take the complement of the larger digit and add it with the smaller digit and cancel a 10.
+  43 - 8 = 43 - (10-2) = (43-10) + 2 = 35 OR (43+2) - (8+2) = 45 - 10 = 35
++ For negative numbers [My own thoughts] :-
+  + When subtracting two negative numbers, remember that going left on the number line of a negative number is really going right on the number line so eventually you will end up with a negative number number add a positive one.
+  + When subtracting a negative number with a positive one, add the two numbers and put back the negative sign.
